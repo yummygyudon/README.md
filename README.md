@@ -32,14 +32,17 @@
 
 ### 🛠 I **mainly use** language for 🛠 <br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <br><br>
+
+<!-- IDEA 는 삭제
 **IDE**<br>
 <img src="https://img.shields.io/badge/Eclipse IDE-3776AB?style=flat-square&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">
 
-<br><br>
+<br>-->
+<br>
 
 ### 💡 I **know how to use**💡 <br><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+<!-- HTML/CSS 삭제 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">--> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 
 <br><br>
@@ -70,7 +73,8 @@
 
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=duck9912)](https://solved.ac/duck9912)<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duck9912)](https://solved.ac/duck9912) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yummygyudon&hide=stars&count_private=true&show_icons=true&title_color=FFD000&text_color=AB5232&icon_color=FFD000&border_color=8B4513)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duck9912)](https://solved.ac/duck9912)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yummygyudon&hide=stars&count_private=true&show_icons=true&title_color=FFD000&text_color=AB5232&icon_color=FFD000&border_color=8B4513)
  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yummygyudon&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
