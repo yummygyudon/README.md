@@ -10,10 +10,12 @@
  🍣 Favorite Foods: **Sushi**, **Natto** <br>
  🎨 Favorite Colors: **Orange**, **Brown**
 
+<a href="https://yummygyudon.notion.site/b63a3ad7aafb47fda433a652c31ef2ad"><img src="https://img.shields.io/static/v1?label=Notion&logo=Notion&message=Portfolio&color=orange&logoColor=white"></a>
+
 <br>
 
 ### 🔥 Account 🔥 <br><br>
-  <a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.facebook.com/people/%EC%A0%95%EB%8F%99%EA%B7%9C/100080475022402/"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/dongyurami_99/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
+  <a href="mailto:bang2brew@gamil.com"><img  src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.facebook.com/people/%EC%A0%95%EB%8F%99%EA%B7%9C/100080475022402/"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/dongyurami_99/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
   <a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 
@@ -26,7 +28,7 @@
 <br><br>
 
 ### 🌱 I’m currently **learning** 🌱 <br><br>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> 
 
 <br><br>
 
@@ -42,8 +44,8 @@
 
 ### 💡 I **know how to use**💡 <br><br>
 <!-- HTML/CSS 삭제 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">--> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
- <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">--> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> 
 
 <br><br>
 
