@@ -1,26 +1,52 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&text=🍜%20Yummy%20Gyudon%20🍜&fontAlign=50&color=fcfa77&animation=twinkling)
+-->
 
+<!--
 <div align="center">
+-->
   
   
   
-## 😎 It's me! Donggyu Jung  
+# 정동규 (Donggyu Jung)  
 
- 🔊 _Call me "<b>Yummy-Gyudon</b>"_ </span><br>
- 🍣 Favorite Foods: **Sushi**, **Natto** <br>
- 🎨 Favorite Colors: **Orange**, **Brown**
+<br/>
+
+해보지 않고 후회하는 것을 극도로 싫어하고<br/>
+해보고 싶은건 모두 도전하는 편입니다. 
 
 <a href="https://yummygyudon.notion.site/b63a3ad7aafb47fda433a652c31ef2ad"><img src="https://img.shields.io/static/v1?label=Notion&logo=Notion&message=Portfolio&color=orange&logoColor=white"></a>
 
-<br>
+<a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
-### 🔥 Account 🔥 <br><br>
-  <a href="mailto:bang2brew@gamil.com"><img  src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.facebook.com/people/%EC%A0%95%EB%8F%99%EA%B7%9C/100080475022402/"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/dongyurami_99/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
-  <a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-
-
+<br/>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1) 
+
+<br/>
+
+### 👀 More About 👀
+
+
+
+ 🔊  Nickname : "<b>Yummy-Gyudon</b>"_ </span><br>
+ 🍣 Favorite Foods: **Sushi**, **Natto** <br>
+ 🎨 Favorite Colors: **Orange**, **Brown**
+
+
+
+<br>
+
+#### Contact
+📮 **Main** : <a href="mailto:bang2brew@gamil.com"><img  src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <br/>
+📮 Sub : 
+
+#### 🔥 SNS 🔥 <br><br>
+   <a href="https://www.facebook.com/people/%EC%A0%95%EB%8F%99%EA%B7%9C/100080475022402/"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/dongyurami_99/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
+  
+
+
+
 
 ### 🙏 I'm currently preparing for 🙏 <br><br>
 <img src="https://img.shields.io/static/v1?label=Developer&message=Back-End&color=blueviolet">
