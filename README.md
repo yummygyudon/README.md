@@ -18,6 +18,7 @@
 <a href="https://yummygyudon.notion.site/b63a3ad7aafb47fda433a652c31ef2ad"><img src="https://img.shields.io/static/v1?label=Notion&logo=Notion&message=Portfolio&color=orange&logoColor=white"></a>
 
 <a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <br/>
 
@@ -36,6 +37,10 @@
 
 
 <br>
+
+#### Blog
+<a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br/>
+<a href="https://yummy-gyudon99.tistory.com/"><img  src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 #### Contact
 📮 **Main** : <a href="mailto:bang2brew@gamil.com"><img  src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <br/>
