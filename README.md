@@ -18,7 +18,7 @@
 ### 🏃‍♂️ Doing
 Pycon KR(파이콘 한국) 준비 위원회 ( 2022 ~ )
 
-<a href="https://yummygyudon.notion.site/b63a3ad7aafb47fda433a652c31ef2ad"><img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=Notion&logoColor=white"></a>
+
 
 <a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=velog&logoColor=white"/></a>
@@ -30,19 +30,12 @@ Pycon KR(파이콘 한국) 준비 위원회 ( 2022 ~ )
 <br/>
 
 ## 👀 More About 👀
-
-
-
- #### 🔊 Nickname
- **Yummy-Gyudon** || **Dongyurami**
- 
- #### 🍣 Favorite Foods
- **Sushi**, **Natto**
- 
- #### 🎨 Favorite Colors
- **Orange**, **Brown**
-
-<br/>
+  
+### 📋 Portfolio
+  <a href="https://yummygyudon.notion.site/b63a3ad7aafb47fda433a652c31ef2ad"><img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=Notion&logoColor=white"></a>
+  
+  <br/>
+  
 
 ### ✏️ Blog 
 <a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> ( ~ 2022.07 )<br/>
@@ -60,6 +53,19 @@ Pycon KR(파이콘 한국) 준비 위원회 ( 2022 ~ )
 
 ### 🔥 SNS 
    <a href="https://www.facebook.com/people/%EC%A0%95%EB%8F%99%EA%B7%9C/100080475022402/"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/dongyurami_99/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
+  
+  <br/>
+  
+   #### 🔊 Nickname
+ **Yummy-Gyudon** || **Dongyurami**
+ 
+ #### 🍣 Favorite Foods
+ **Sushi**, **Natto**
+ 
+ #### 🎨 Favorite Colors
+ **Orange**, **Brown**
+
+
   
  <br/>
  <br/>
