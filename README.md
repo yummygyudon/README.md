@@ -19,10 +19,6 @@
 Pycon KR(파이콘 한국) 준비 위원회 ( 2022 ~ )
 
 
-
-<a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://velog.io/@yummygyudon"><img  src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=velog&logoColor=white"/></a>
-
 <br/>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1) 
