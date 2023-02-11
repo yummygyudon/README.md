@@ -28,7 +28,7 @@ Pycon KR(파이콘 한국) 준비 위원회 ( 2022 ~ )
 ## 👀 More About 👀
   
 ### 📋 Portfolio
-  <a href="https://yummygyudon.notion.site/b63a3ad7aafb47fda433a652c31ef2ad"><img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=Notion&logoColor=white"></a>
+  <a href="https://www.notion.so/yummygyudon/b63a3ad7aafb47fda433a652c31ef2ad?pvs=4"><img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=Notion&logoColor=white"></a>
   
   <br/>
   
