@@ -16,7 +16,8 @@
 <br/>
 
 ### 🏃‍♂️ Doing
-Pycon KR(파이콘 한국) 준비 위원회 ( 2022 ~ )
+Pycon KR(파이콘 한국) 준비 위원회 ( 2022 ~ )<br/>
+S.O.P.T 32th : Server
 
 
 <br/>
