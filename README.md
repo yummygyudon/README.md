@@ -49,7 +49,7 @@ S.O.P.T 32th : Server
 <br/>
 
 ### 🔥 SNS 
-   <a href="https://www.facebook.com/people/%EC%A0%95%EB%8F%99%EA%B7%9C/100080475022402/"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/dongyurami_99/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
+   <a href="https://www.facebook.com/profile.php?id=100080475022402"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/dev_gyu_99/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
   
   <br/>
   
