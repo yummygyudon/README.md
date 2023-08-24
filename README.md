@@ -29,7 +29,13 @@
 
 🐍 PyCon KR 2023 (파이콘 한국 2023) 준비 위원회
 
-💙 S.O.P.T 32th : Server ( 👑 MVP 👑 )
+💙 S.O.P.T 32th : Server 
+
+💙 S.O.P.T 32th : Server 👑 MVP 👑
+
+🚀 S.O.P.T Makers 3th
+
+
 
 <br/>
 
