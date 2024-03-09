@@ -33,6 +33,10 @@
 
 🚀 S.O.P.T Makers 3rd - `APP` Team : **BE** Chapter
 
+🚀 S.O.P.T Makers 4th - Makers Team Leader
+
+🚀 S.O.P.T Makers 4th - `Platform` Team : **BE** Chapter
+
 
 
 <br/>
