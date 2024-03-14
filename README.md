@@ -26,19 +26,19 @@
 
 ### 🌼 Activities
 #### 2022
-🐍 PyCon KR 2022 (파이콘 한국 2022) 준비 위원회
+🐍 PyCon KR 2022 (파이콘 한국 2022) [준비 위원회](https://2022.pycon.kr/about/organizing-team)
 
 #### 2023
-🐍 PyCon KR 2023 (파이콘 한국 2023) 준비 위원회
+🐍 PyCon KR 2023 (파이콘 한국 2023) [준비 위원회](https://2023.pycon.kr/about/organizing-team)
 
-💙 S.O.P.T 32nd : **Server** Part ( **MVP** )
+💙 [SOPT](https://www.sopt.org/) 32nd : **Server** Part ( **MVP** )
 
-🚀 S.O.P.T Makers 3rd - `APP` Team : **BE** Chapter
+🚀 [SOPT Makers](https://makers.sopt.org/) 3rd - `APP` Team : **BE** Chapter
 
 #### 2024
-🚀 S.O.P.T Makers 4th - Leader
+🚀 [SOPT Makers](https://makers.sopt.org/) 4th - Leader
 
-🚀 S.O.P.T Makers 4th - `Platform` Team : **BE** Chapter
+🚀 [SOPT Makers](https://makers.sopt.org/) 4th - `Platform` Team : **BE** Chapter
 
 
 
