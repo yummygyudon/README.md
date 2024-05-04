@@ -15,7 +15,7 @@
 
 💼 **BackEnd** Engineer
 
-💬 **Using** : <img src="https://img.shields.io/badge/Java-brown?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-F7A81B?style=flat-square&logo=Amazon&logoColor=white">
+💬 **Using** : <img src="https://img.shields.io/badge/Java-brown?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-F7A81B?style=flat-square&logo=Amazon&logoColor=white">
 
 ❤️ 개발자 **생태계 및 커뮤니티 기여** 활동을 좋아합니다.
 
