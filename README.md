@@ -4,23 +4,36 @@
 ## 정동규 (Donggyu Jung)  
 <!--<div style="display:flex;width:100%;">
 <div style="width:50%;">-->
+
+<a href="https://www.notion.so/yummygyudon/b63a3ad7aafb47fda433a652c31ef2ad?pvs=4">
+  <img src="https://img.shields.io/badge/Resume-orange?style=for-a-badge&logo=Notion&logoColor=yello"/>
+</a>
+<a href="https://www.notion.so/yummygyudon/b63a3ad7aafb47fda433a652c31ef2ad?pvs=4">
+  <img src="https://img.shields.io/badge/Portfolio-grey?style=for-a-badge&logo=Notion&logoColor=yello"/>
+</a>
+
+<br/>
 <br/>
 
 해보지 않고 후회하는 것을 극도로 싫어하고<br/>
 해보고 싶은건 모두 도전하는 편입니다. 
 
+
+#### 💼 **Position**
+**Backend** Engineer
+
+#### 💬 **Using**
+<img src="https://img.shields.io/badge/Java-brown?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-F7A81B?style=flat-square&logo=Amazon&logoColor=white">
+
+#### 📮 **Contact** 
+<a href="mailto:bang2brew@gamil.com">
+  <img src="https://img.shields.io/badge/Gmail-darkgrey?style=for-a-badge&logo=Gmail&logoColor=yello"/>
+</a>
+
+<br/>
 <br/>
 
-### 👀 About me
-
-💼 **BackEnd** Engineer
-
-💬 **Using** : <img src="https://img.shields.io/badge/Java-brown?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-F7A81B?style=flat-square&logo=Amazon&logoColor=white">
-
-❤️ 개발자 **생태계 및 커뮤니티 기여** 활동을 좋아합니다.
-
-📮 더 알고싶다면 [여기로](mailto:bang2brew@gamil.com) 연락 주세요!
-
+<img src="https://github.com/yummygyudon/yummygyudon/assets/86935274/dd588589-71c6-411c-b1eb-4d6b90d43037"/>
 
 <br/>
 
@@ -42,14 +55,6 @@
 
 🚀 [SOPT makers](https://makers.sopt.org/) 4th - `Platform` Team : **BE** Chapter
 
-
-
-<br/>
-
-### 📋 Portfolio
-<a href="https://www.notion.so/yummygyudon/b63a3ad7aafb47fda433a652c31ef2ad?pvs=4">
-  <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=Notion&logoColor=white">
-</a>
 
   
 <br/>
