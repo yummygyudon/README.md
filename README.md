@@ -5,10 +5,10 @@
 <!--<div style="display:flex;width:100%;">
 <div style="width:50%;">-->
 
-<a href="https://www.notion.so/yummygyudon/b63a3ad7aafb47fda433a652c31ef2ad?pvs=4">
+<a href="https://yummygyudon.notion.site/42013626c0cf4ce6bf7f41fef38dadf0?pvs=4">
   <img src="https://img.shields.io/badge/Resume-orange?style=for-a-badge&logo=Notion&logoColor=yello"/>
 </a>
-<a href="https://www.notion.so/yummygyudon/b63a3ad7aafb47fda433a652c31ef2ad?pvs=4">
+<a href="https://yummygyudon.notion.site/Protfolio-7752be9cd7554583a3a0345e5634e48f?pvs=4">
   <img src="https://img.shields.io/badge/Portfolio-grey?style=for-a-badge&logo=Notion&logoColor=yello"/>
 </a>
 
