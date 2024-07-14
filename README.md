@@ -49,8 +49,6 @@
 🚀 [SOPT makers](https://makers.sopt.org/) 3rd - `APP` Team : **BE** Chapter
 
 #### 2024
-🐍 PyCon KR 2024 (파이콘 한국 2024) 준비 위원회
-
 🚀 [SOPT makers](https://makers.sopt.org/) 4th - Leader
 
 🚀 [SOPT makers](https://makers.sopt.org/) 4th - `Platform` Team : **BE** Chapter
