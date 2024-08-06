@@ -53,7 +53,7 @@
 
 🚀 [SOPT makers](https://makers.sopt.org/) 4th - `Platform` Team : **BE** Chapter
 
-
+🚀 [SOPT makers](https://makers.sopt.org/) 5th - `Platform` Team : **BE** Chapter
   
 <br/>
 <br/>
