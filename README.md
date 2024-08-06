@@ -44,12 +44,12 @@
 #### 2023
 🐍 PyCon KR 2023 (파이콘 한국 2023) [준비 위원회](https://2023.pycon.kr/about/organizing-team)
 
-💙 [SOPT](https://www.sopt.org/) 32nd : **Server** Part ( **MVP** )
+💙 [SOPT](https://www.sopt.org/) 32nd : **Server** Part Member ( **MVP** )
 
 🚀 [SOPT makers](https://makers.sopt.org/) 3rd - `APP` Team : **BE** Chapter
 
 #### 2024
-🚀 [SOPT makers](https://makers.sopt.org/) 4th - Leader
+💚 [SOPT](https://www.sopt.org/) 34th : Executive ( **[SOPT makers](https://makers.sopt.org/) Team Leader** )
 
 🚀 [SOPT makers](https://makers.sopt.org/) 4th - `Platform` Team : **BE** Chapter
 
