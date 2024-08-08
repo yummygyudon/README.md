@@ -39,12 +39,18 @@
 <br/>
 
 ## Projects
-- [**SOPT makers Platform**](https://www.palms.blog) : Solve common technical problems among product teams 
+- **SOPT makers Platform** : Solve common technical problems among product teams 
   - 2024.02 ~ 
-  - BE Engineer 
-- [**SOPT App**](https://www.palms.blog) : Mobile App for member of SOPT
+  - BE Engineer
+  - Links
+    - GitHub - [Admin Project](https://github.com/sopt-makers/sopt-operation-backend)
+- **SOPT App** : Mobile App for member of SOPT
   - 2023.08 ~ 2024.01
   - BE Engineer
+  - Links
+    - GitHub - [SOPT App Project](https://github.com/sopt-makers/sopt-backend)
+    - Apple App Store - [SOPT App](https://apps.apple.com/us/app/%EC%86%9D%ED%8A%B8-sopt-it-%EB%B2%A4%EC%B2%98-%EC%B0%BD%EC%97%85-%EB%8F%99%EC%95%84%EB%A6%AC-%EA%B3%B5%EC%8B%9D%EC%95%B1/id6444594319)
+    - Google Playstore - [SOPT App](https://play.google.com/store/apps/details?id=org.sopt.official)
 - [**palms.blog**](https://www.palms.blog) : Blog builder service for team
   - 2023.07 ~ 2024.08
   - Lead BE Engineer
