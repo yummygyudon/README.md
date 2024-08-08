@@ -1,9 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1) 
-
-
 ## 정동규 (Donggyu Jung)  
 <!--<div style="display:flex;width:100%;">
 <div style="width:50%;">-->
+
+### 🧑🏻‍💻 **Backend** Engineer / Software Engineer
+
+#### [ Skills ]
+<img src="https://img.shields.io/badge/Java-A64514?style=for-a-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-a-badg&logo=Spring&logoColor=white"> 
+<!--<img src="https://img.shields.io/badge/Kotlin-8534FF?style=for-a-badge&logo=kotlin&logoColor=white"> -->
+
+<img src="https://img.shields.io/badge/MySQL-007396?style=for-a-badg&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-a-badg&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-F7A81B?style=for-a-badg&logo=Amazon&logoColor=white">
+
+#### [ Contact ]
+
+<a href="mailto:bang2brew@gamil.com">
+  <img src="https://img.shields.io/badge/Gmail-darkgrey?style=for-a-badge&logo=Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/yummygyudon/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-a-badge&logo=LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/yummy_gyu_99/">
+  <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-a-badge&logo=Instagram"/>
+</a>
+
+#### [ More About ]
 
 <a href="https://yummygyudon.notion.site/42013626c0cf4ce6bf7f41fef38dadf0?pvs=4">
   <img src="https://img.shields.io/badge/Resume-orange?style=for-a-badge&logo=Notion&logoColor=yello"/>
@@ -15,46 +34,45 @@
 <br/>
 <br/>
 
-해보지 않고 후회하는 것을 극도로 싫어하고<br/>
-해보고 싶은건 모두 도전하는 편입니다. 
-
-
-#### 💼 **Position**
-**Backend** Engineer
-
-#### 💬 **Using**
-<img src="https://img.shields.io/badge/Java-brown?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-F7A81B?style=flat-square&logo=Amazon&logoColor=white">
-
-#### 📮 **Contact** 
-<a href="mailto:bang2brew@gamil.com">
-  <img src="https://img.shields.io/badge/Gmail-darkgrey?style=for-a-badge&logo=Gmail&logoColor=yello"/>
-</a>
-
-<br/>
-<br/>
-
 <img src="https://github.com/yummygyudon/yummygyudon/assets/86935274/dd588589-71c6-411c-b1eb-4d6b90d43037"/>
 
 <br/>
 
-### 🌼 Activities
-#### 2022
-🐍 PyCon KR 2022 (파이콘 한국 2022) [준비 위원회](https://2022.pycon.kr/about/organizing-team)
+## Projects
+- [**SOPT makers Platform**](https://www.palms.blog) : Solve common technical problems among product teams 
+  - 2024.02 ~ 
+  - BE Engineer 
+- [**SOPT App**](https://www.palms.blog) : Mobile App for member of SOPT
+  - 2023.08 ~ 2024.01
+  - BE Engineer
+- [**palms.blog**](https://www.palms.blog) : Blog builder service for team
+  - 2023.07 ~ 2024.08
+  - Lead BE Engineer
 
-#### 2023
-🐍 PyCon KR 2023 (파이콘 한국 2023) [준비 위원회](https://2023.pycon.kr/about/organizing-team)
+<br/>
+<br/>
 
-💙 [SOPT](https://www.sopt.org/) 32nd : **Server** Part Member ( **MVP** )
+## Experiences
+### Development
+- [**SOPT**](https://www.sopt.org/) 
+  - 32nd SOPT - Server
+  - 32nd SOPT - Server Part **MVP**
+- [**SOPT makers**](https://makers.sopt.org/)
+  - 3rd SOPT makers - BE Engineer (App Team)
+  - 4th SOPT makers - BE Engineer (Platform Team)
+  - 5th SOPT makers - BE Engineer (Platform Team)
 
-🚀 [SOPT makers](https://makers.sopt.org/) 3rd - `APP` Team : **BE** Chapter
+<br/>
 
-#### 2024
-💚 [SOPT](https://www.sopt.org/) 34th : Executive ( **[SOPT makers](https://makers.sopt.org/) Team Leader** )
+### Contribution
+- [**SOPT**](https://www.sopt.org/) 
+  - 34th SOPT Executive - [4th SOPT makers Leader](https://playground.sopt.org/makers)
+- [**PyCon KR**](https://www.pycon.kr)
+  - PyCon KR 2022 - [Organizer](https://2022.pycon.kr/about/organizing-team)
+  - PyCon KR 2023 - [Organizer](https://2023.pycon.kr/about/organizing-team)
+  - PyCon KR 2024 - Organizer
 
-🚀 [SOPT makers](https://makers.sopt.org/) 4th - `Platform` Team : **BE** Chapter
 
-🚀 [SOPT makers](https://makers.sopt.org/) 5th - `Platform` Team : **BE** Chapter
-  
 <br/>
 <br/>
 
@@ -64,7 +82,7 @@
 
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1) 
+![eb3686af-e56b-4750-afcf-7e7bdb930e66](https://github.com/user-attachments/assets/851e40cd-e5ad-4421-a7b1-24cbc6db05ca)
 
 
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=duck9912)](https://solved.ac/duck9912)<br> -->
