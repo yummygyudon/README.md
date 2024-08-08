@@ -50,7 +50,6 @@
   - Lead BE Engineer
 
 <br/>
-<br/>
 
 ## Experiences
 ### Development
@@ -65,7 +64,8 @@
 <br/>
 
 ### Contribution
-- [**SOPT**](https://www.sopt.org/) 
+- [**SOPT**](https://www.sopt.org/)
+  - 32nd / 33rd SOPT - [Mini Seminar : Implementing login feature using Spring Security and JWT](https://www.notion.so/8cc3ac6fae714b4da6ef7fff422d33f1?pvs=25)
   - 34th SOPT Executive - [4th SOPT makers Leader](https://playground.sopt.org/makers)
 - [**PyCon KR**](https://www.pycon.kr)
   - PyCon KR 2022 - [Organizer](https://2022.pycon.kr/about/organizing-team)
