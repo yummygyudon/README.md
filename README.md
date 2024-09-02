@@ -65,7 +65,7 @@
 - [**SOPT makers**](https://makers.sopt.org/)
   - 3rd SOPT makers - BE Engineer (App Team)
   - 4th SOPT makers - BE Engineer (Platform Team)
-  - 5th SOPT makers - BE Engineer (Platform Team)
+  - 5th SOPT makers - BE Lead Engineer (Platform Team)
 
 <br/>
 
@@ -76,7 +76,6 @@
 - [**PyCon KR**](https://www.pycon.kr)
   - PyCon KR 2022 - [Organizer](https://2022.pycon.kr/about/organizing-team)
   - PyCon KR 2023 - [Organizer](https://2023.pycon.kr/about/organizing-team)
-  - PyCon KR 2024 - Organizer
 
 
 <br/>
