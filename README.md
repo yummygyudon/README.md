@@ -24,7 +24,7 @@
 
 #### [ More About ]
 
-<a href="https://yummygyudon.notion.site/42013626c0cf4ce6bf7f41fef38dadf0?pvs=4">
+<a href="https://yummygyudon.notion.site/Jung-Dong-Gyu-711cc081aa7d4d0aa836938437f96974?pvs=4">
   <img src="https://img.shields.io/badge/Resume-orange?style=for-a-badge&logo=Notion&logoColor=yello"/>
 </a>
 <a href="https://yummygyudon.notion.site/Protfolio-7752be9cd7554583a3a0345e5634e48f?pvs=4">
