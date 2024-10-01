@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-a-badge&logo=Instagram"/>
 </a>
 
+<!--
 #### [ More About ]
 
 <a href="https://yummygyudon.notion.site/Jung-Dong-Gyu-711cc081aa7d4d0aa836938437f96974?pvs=4">
@@ -35,6 +36,7 @@
 <br/>
 
 <img src="https://github.com/yummygyudon/yummygyudon/assets/86935274/dd588589-71c6-411c-b1eb-4d6b90d43037"/>
+-->
 
 <br/>
 
@@ -53,7 +55,7 @@
     - Google Playstore - [SOPT App](https://play.google.com/store/apps/details?id=org.sopt.official)
 - [**palms.blog**](https://www.palms.blog) : Blog builder service for team
   - 2023.07 ~ 2024.08
-  - Lead BE Engineer
+  - BE Engineer
 
 <br/>
 
