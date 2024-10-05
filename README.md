@@ -2,7 +2,7 @@
 <!--<div style="display:flex;width:100%;">
 <div style="width:50%;">-->
 
-### 🧑🏻‍💻 **Backend** Engineer / Software Engineer
+### 🧑🏻‍💻 **Backend** Engineer
 
 #### [ Skills ]
 <img src="https://img.shields.io/badge/Java-A64514?style=for-a-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-a-badg&logo=Spring&logoColor=white"> 
