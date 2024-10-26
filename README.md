@@ -41,43 +41,32 @@
 <br/>
 
 ## Projects
-- **SOPT makers Platform** : Solve common technical problems among product teams 
-  - 2024.02 ~ 
-  - BE Engineer
-  - Links
-    - GitHub - [Admin Project](https://github.com/sopt-makers/sopt-operation-backend)
-- **SOPT App** : Mobile App for member of SOPT
-  - 2023.08 ~ 2024.01
-  - BE Engineer
-  - Links
-    - GitHub - [SOPT App Project](https://github.com/sopt-makers/sopt-backend)
-    - Apple App Store - [SOPT App](https://apps.apple.com/us/app/%EC%86%9D%ED%8A%B8-sopt-it-%EB%B2%A4%EC%B2%98-%EC%B0%BD%EC%97%85-%EB%8F%99%EC%95%84%EB%A6%AC-%EA%B3%B5%EC%8B%9D%EC%95%B1/id6444594319)
-    - Google Playstore - [SOPT App](https://play.google.com/store/apps/details?id=org.sopt.official)
-- [**palms.blog**](https://www.palms.blog) : Blog builder service for team
+- **SOPT makers** : Solve common technical problems among product teams 
+  - 2023.09 ~
+  - [SOPT Authentication Server Project](https://github.com/sopt-makers/sopt-auth-backend)
+  - [SOPT Admin Project](https://github.com/sopt-makers/sopt-operation-backend)
+  - [SOPT App Project](https://github.com/sopt-makers/sopt-backend)
+- [**palms.blog**](https://www.palms.blog) 
   - 2023.07 ~ 2024.08
-  - BE Engineer
 
 <br/>
 
 ## Experiences
-### Development
 - [**SOPT**](https://www.sopt.org/) 
-  - 32nd SOPT - Server
-  - 32nd SOPT - Server Part **MVP**
+  - 32nd SOPT - Server Part (**MVP**) 
+  - 34th SOPT - [SOPT makers 4th Team Leader](https://playground.sopt.org/makers)
 - [**SOPT makers**](https://makers.sopt.org/)
-  - 3rd SOPT makers - BE Engineer (App Team)
-  - 4th SOPT makers - BE Engineer (Platform Team)
-  - 5th SOPT makers - BE Lead Engineer (Platform Team)
-
-<br/>
-
-### Contribution
-- [**SOPT**](https://www.sopt.org/)
-  - 32nd / 33rd SOPT - [Mini Seminar : Implementing login feature using Spring Security and JWT](https://www.notion.so/8cc3ac6fae714b4da6ef7fff422d33f1?pvs=25)
-  - 34th SOPT Executive - [4th SOPT makers Leader](https://playground.sopt.org/makers)
+  - SOPT makers 3rd - BE Engineer (App Team)
+  - SOPT makers 4th - BE Engineer (Platform Team)
+  - SOPT makers 5th - BE Lead Engineer (Platform Team)
 - [**PyCon KR**](https://www.pycon.kr)
   - PyCon KR 2022 - [Organizer](https://2022.pycon.kr/about/organizing-team)
   - PyCon KR 2023 - [Organizer](https://2023.pycon.kr/about/organizing-team)
+
+<br/>
+
+- [Mini Seminar : Implementing login feature using Spring Security and JWT](https://www.notion.so/8cc3ac6fae714b4da6ef7fff422d33f1?pvs=25)
+  - 32nd SOPT & 33rd SOPT
 
 
 <br/>
