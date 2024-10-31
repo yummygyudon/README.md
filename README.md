@@ -76,10 +76,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyummygyudon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
 
 
-<br/>
-
-![eb3686af-e56b-4750-afcf-7e7bdb930e66](https://github.com/user-attachments/assets/851e40cd-e5ad-4421-a7b1-24cbc6db05ca)
-
 
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=duck9912)](https://solved.ac/duck9912)<br> -->
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duck9912)](https://solved.ac/duck9912)<br>
