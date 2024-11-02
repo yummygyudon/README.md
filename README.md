@@ -1,6 +1,4 @@
-## 정동규 (Donggyu Jung)  
-<!--<div style="display:flex;width:100%;">
-<div style="width:50%;">-->
+## 정동규 (Donggyu Jung)
 
 ### 🧑🏻‍💻 **Backend** Engineer
 
