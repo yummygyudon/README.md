@@ -53,13 +53,13 @@
 - [**SOPT**](https://www.sopt.org/) 
   - 32nd SOPT - Server Part (**MVP**) 
   - 34th SOPT - [SOPT makers 4th Team Leader](https://playground.sopt.org/makers)
-- [**SOPT makers**](https://makers.sopt.org/)
-  - SOPT makers 3rd - BE Engineer (App Team)
-  - SOPT makers 4th - BE Engineer (Platform Team)
-  - SOPT makers 5th - BE Lead Engineer (Platform Team)
-- [**PyCon KR**](https://www.pycon.kr)
-  - PyCon KR 2022 - [Organizer](https://2022.pycon.kr/about/organizing-team)
-  - PyCon KR 2023 - [Organizer](https://2023.pycon.kr/about/organizing-team)
+- [**SOPT makers**](https://makers.sopt.org/) : BE Engineer
+  - SOPT makers 3rd - App Team
+  - SOPT makers 4th - Platform Team
+  - SOPT makers 5th - Platform Team
+- [**PyCon KR**](https://www.pycon.kr) : Organizer
+  - [PyCon KR 2022](https://2022.pycon.kr/about/organizing-team)
+  - [PyCon KR 2023](https://2023.pycon.kr/about/organizing-team)
 
 <br/>
 
