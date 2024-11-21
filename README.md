@@ -57,9 +57,8 @@
   - SOPT makers 3rd - App Team
   - SOPT makers 4th - Platform Team
   - SOPT makers 5th - Platform Team
-- [**PyCon KR**](https://www.pycon.kr) : Organizer
-  - [PyCon KR 2022](https://2022.pycon.kr/about/organizing-team)
-  - [PyCon KR 2023](https://2023.pycon.kr/about/organizing-team)
+- [**PyCon KR**](https://www.pycon.kr) : Organizer ([2022](https://2022.pycon.kr/about/organizing-team) / [2023](https://2023.pycon.kr/about/organizing-team))
+
 
 <br/>
 
