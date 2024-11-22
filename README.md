@@ -54,9 +54,6 @@
   - 32nd SOPT - Server Part (**MVP**) 
   - 34th SOPT - [SOPT makers 4th Team Leader](https://playground.sopt.org/makers)
 - [**SOPT makers**](https://makers.sopt.org/) : BE Engineer
-  - SOPT makers 3rd - App Team
-  - SOPT makers 4th - Platform Team
-  - SOPT makers 5th - Platform Team
 - [**PyCon KR**](https://www.pycon.kr) : Organizer ([2022](https://2022.pycon.kr/about/organizing-team) / [2023](https://2023.pycon.kr/about/organizing-team))
 
 
