@@ -41,9 +41,9 @@
 ## Projects
 - **SOPT makers** : Solve common technical problems among product teams 
   - 2023.09 ~
-  - [SOPT Authentication Server Project](https://github.com/sopt-makers/sopt-auth-backend)
-  - [SOPT Admin Project](https://github.com/sopt-makers/sopt-operation-backend)
-  - [SOPT App Project](https://github.com/sopt-makers/sopt-backend)
+  - [SOPT Authentication Server](https://github.com/sopt-makers/sopt-auth-backend)
+  - [SOPT Admin](https://github.com/sopt-makers/sopt-operation-backend)
+  - [SOPT App](https://github.com/sopt-makers/sopt-backend)
 - [**palms.blog**](https://www.palms.blog) 
   - 2023.07 ~ 2024.08
 
