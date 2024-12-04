@@ -3,10 +3,10 @@
 ### 🧑🏻‍💻 **Backend** Engineer
 
 #### [ Skills ]
-<img src="https://img.shields.io/badge/Java-A64514?style=for-a-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-a-badg&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-A64514?style=for-a-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-a-badg&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=for-a-badg&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-a-badg&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-F7A81B?style=for-a-badg&logo=Amazon&logoColor=white">
 <!--<img src="https://img.shields.io/badge/Kotlin-8534FF?style=for-a-badge&logo=kotlin&logoColor=white"> -->
 
-<img src="https://img.shields.io/badge/MySQL-007396?style=for-a-badg&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-a-badg&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-F7A81B?style=for-a-badg&logo=Amazon&logoColor=white">
+
 
 #### [ Contact ]
 
