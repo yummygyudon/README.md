@@ -39,13 +39,11 @@
 <br/>
 
 ## Projects
-- **SOPT makers** : Solve common technical problems among product teams 
-  - 2023.09 ~
+- **SOPT makers** : Solve common technical problems among product teams (23.09 ~ 24.01)
   - [SOPT Authentication Server](https://github.com/sopt-makers/sopt-auth-backend)
   - [SOPT Admin](https://github.com/sopt-makers/sopt-operation-backend)
   - [SOPT App](https://github.com/sopt-makers/sopt-backend)
-- [**palms.blog**](https://www.palms.blog) 
-  - 2023.07 ~ 2024.08
+- [**palms.blog**](https://www.palms.blog) (23.07 ~ 24.08)
 
 <br/>
 
